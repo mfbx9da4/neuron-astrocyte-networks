@@ -1,0 +1,1 @@
+[('NN_outdim', 1), ('crossover_rate', 0.9), ('mutation_rate', 0.1), ('NN_hiddim', 2), ('trials', 1), ('elitism_individuals_num', 22), ('pop_size', 150), ('NN_indim', 2), ('max_iterations', 1000)]

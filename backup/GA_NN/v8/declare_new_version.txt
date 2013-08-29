@@ -1,0 +1,1 @@
+To learn weights with bp and see if ga can conserve learned weights

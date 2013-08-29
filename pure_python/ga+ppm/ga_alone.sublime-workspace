@@ -1,0 +1,664 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"file_name	(local, instance)"
+			],
+			[
+				"fil",
+				"file_name	(local, instance)"
+			],
+			[
+				"ex",
+				"exp_dir_str	(global, instance)"
+			],
+			[
+				"all",
+				"all_trials	(local, instance)"
+			],
+			[
+				"get",
+				"getArgs	(global, function)"
+			],
+			[
+				"trn",
+				"trn_data"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"blo",
+				"blog_id	(local, instance)"
+			],
+			[
+				"entr",
+				"entry	(local, instance)"
+			],
+			[
+				"train",
+				"testOnTrainData(nn)	(global, function)"
+			],
+			[
+				"rad",
+				"randomize"
+			],
+			[
+				"tes",
+				"testOnClassData  (function)"
+			],
+			[
+				"bui",
+				"buildXor()	(attribute, function)"
+			],
+			[
+				"se",
+				"selectionSize  (variable)"
+			],
+			[
+				"ge",
+				"__getitem__  (function)"
+			],
+			[
+				"to",
+				"tournament"
+			],
+			[
+				"e",
+				"eliteSize  (variable)"
+			],
+			[
+				"calc",
+				"calcFit"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"per",
+				"percentError  (function)"
+			],
+			[
+				"cla",
+				"ClassificationDataSet"
+			],
+			[
+				"neu",
+				"neuron_astrocyte_net"
+			],
+			[
+				"upda",
+				"updateActivation"
+			],
+			[
+				"act",
+				"activate_layer"
+			],
+			[
+				"neuro",
+				"neuron_activations"
+			],
+			[
+				"max",
+				"max_iterations"
+			],
+			[
+				"out",
+				"output_is_correct"
+			],
+			[
+				"pw",
+				"pwd_err	(local, instance)"
+			],
+			[
+				"val",
+				"valid_pwd(username)	(global, function)"
+			],
+			[
+				"pr",
+				"pop_size  (variable)"
+			],
+			[
+				"un",
+				"uname"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"O",
+				"OutAstroLayer	(imported, class)"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"argm",
+				"argmax_perc_err	(local, instance)"
+			],
+			[
+				"nn",
+				"nn_perc_err	(local, instance)"
+			],
+			[
+				"arg",
+				"argmax_cor	(local, instance)"
+			],
+			[
+				"hidd",
+				"hidden0"
+			],
+			[
+				"ran",
+				"randomIrisData	(imported, instance)"
+			],
+			[
+				"cre",
+				"createPop	(imported, function)"
+			],
+			[
+				"tr",
+				"trainEpochs  (function)"
+			],
+			[
+				"modu",
+				"modules  (module)"
+			],
+			[
+				"ta",
+				"tanhlayer  (module)"
+			],
+			[
+				"input",
+				"input_ws	(local, instance)"
+			],
+			[
+				"inp",
+				"input_ws"
+			],
+			[
+				"output",
+				"output_ws"
+			],
+			[
+				"layer",
+				"layer_activations"
+			],
+			[
+				"Astr",
+				"AstrocyteLayer	(global, class)"
+			],
+			[
+				"old",
+				"old_ws	(local, instance)"
+			],
+			[
+				"ass",
+				"assert_array_equal"
+			],
+			[
+				"new",
+				"new_ws	(local, instance)"
+			],
+			[
+				"as",
+				"assertEqual  (function)"
+			],
+			[
+				"astr",
+				"astrocyte_layer"
+			],
+			[
+				"k",
+				"kwargs"
+			],
+			[
+				"remaing_",
+				"remaining_active_durs"
+			],
+			[
+				"assert",
+				"assertIsNot"
+			],
+			[
+				"de",
+				"decr_percent"
+			],
+			[
+				"ne",
+				"neur_in_ws	(attribute, instance)"
+			],
+			[
+				"assert_ar",
+				"assert_array_equal  (function)"
+			],
+			[
+				"in",
+				"in_to_hidden"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"T",
+				"TestCase"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"bind",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/ga_alone/testutilities.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/ga_alone/testneuralnetwork.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/ga_alone/testmain.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/ga_alone/testGA.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/ga_alone/testastrocytelayer.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/ga_alone/neuralnetwork.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/ga_alone/main.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/ga_alone/GA.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/ga_alone/astrocyte_layer.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/ga_alone/__init__.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/main.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/GA.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/ga_alone/utilities.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/plotting/plotters.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/plotting/graphscript_4.py",
+		"/C/Users/david/Dropbox/programming/python/ann/pybrain_ga.py",
+		"/C/Users/david/Dropbox/programming/python/ann/results/523_9-4-2013/implementation_parameters.out",
+		"/C/Users/david/Dropbox/programming/python/ann/results/2144_8-4-2013/implementation_parameters.out",
+		"/C/Users/david/Dropbox/programming/python/ann/results/219_8-4-2013/implementation_parameters.out",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/plotting/graphscript_3.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/datasets/parity.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/utilities.py",
+		"/C/Users/david/Dropbox/programming/python/ann/2057_8-4-2013/implementation_parameters.out",
+		"/C/Users/david/Dropbox/programming/python/ann/results/219_8-4-2013/trn_per_err.out",
+		"/C/Users/david/Dropbox/programming/python/ann/2057_8-4-2013/trn_per_err.out",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/src/optimization/optimizer.py",
+		"/C/Users/david/Dropbox/programming/python/ann/pybrain_ga_PP.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/src/optimization/populationbased/evolution.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/src/optimization/populationbased/ga.py",
+		"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/main.py",
+		"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/style/main_blog.css",
+		"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/udacity/blog/templates/permalink.html",
+		"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/udacity/blog/templates/main_page.html",
+		"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/udacity/blog/templates/entry_page.html",
+		"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/udacity/blog/main.py",
+		"/C/Users/david/Downloads/hw3/templates/front.html",
+		"/C/Users/david/Downloads/hw3/templates/base.html",
+		"/C/Users/david/Downloads/hw3/blog.py",
+		"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/udacity/blog/__init__.py",
+		"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/udacity/blog/__init__.pyc",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/src/optimization/populationbased/testga.py",
+		"/C/Users/david/Google Drive/sem6/angn_project/PP_pseudocode.py",
+		"/C/Users/david/Dropbox/programming/python/ann/pybrain_ga_PP_1.py",
+		"/C/Users/david/Dropbox/programming/python/ann/misc/for_stackof.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/__init__.py",
+		"/C/Users/david/Downloads/untitled-1.tex",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/astrocyte_layer.py",
+		"/C/Users/david/Dropbox/programming/Web_Dev/Wikiversity/CSSchal2.html",
+		"/C/Users/david/Dropbox/programming/Web_Dev/TABS.html",
+		"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/udacity/blog/templates/style.css",
+		"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/udacity/ROT13/main.py",
+		"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/udacity/blog/templates/signup.html",
+		"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/udacity/signup/main.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/testutilities.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/testneuralnetwork.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/testmain.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/testGA.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/testastrocytelayer.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/neuralnetwork.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/astrocyte_layer.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/my_algo_brainstm.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/angn.py",
+		"/C/Users/david/Dropbox/programming/python/ann/myangn/sem6/iris.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/mymodules/threshold.py",
+		"/C/Users/david/Dropbox/programming/python/misc/darbouka.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/angn_1.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/src/rl/environments/fitnessevaluator.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/src/optimization/populationbased/ga.pyc",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/testneuralnetwork.pyc",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/testutilities.pyc",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/testmain.pyc",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/testGA.pyc",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/testastrocytelayer.pyc",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/neuralnetwork.pyc",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/main.pyc",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/GA.pyc",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/declare_new_version.txt",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/astrocyte_layer.pyc",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/utilities.pyc",
+		"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/udacity/signup/templates/signup.html",
+		"/C/Users/david/res2.tex",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/1235_30-3-2013/train_percents_top.out",
+		"/C/Users/david/Dropbox/programming/python/udacity/lesson2/hw2/blog.py",
+		"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/udacity/signup/__init__.py",
+		"/C/Users/david/Dropbox/sem6/NI/Thumbs.db",
+		"/C/Users/david/Google Drive/temp.txt",
+		"/C/Users/david/Dropbox/programming/python/misc/udacity/lesson2/lesson_2.html",
+		"/C/Users/david/Dropbox/programming/python/misc/udacity/hellloworld/helloworld.py",
+		"/C/Users/david/Dropbox/programming/python/misc/udacity/hellloworld/app.yaml",
+		"/C/Users/david/Dropbox/programming/python/misc/udacity/hellloworld/helloworld.pyc",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/src/structure/connections/full.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/src/structure/modules/linearlayer.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/angn_2.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v8/declare_new_version.txt",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v8/GA.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v6/testastrocytelayer.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v6/astrocyte_layer.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v6/neuralnetwork.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v6/testneuralnetwork.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v6/testGA.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v6/testutilities.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v6/GA.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v6/main.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v6/utilities.py",
+		"/C/Users/david/Dropbox/programming/python/misc/classes.py",
+		"/C/Users/david/Dropbox/programming/python/misc/oo_examples/inheritance.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/src/structure/networks/network.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/src/utilities.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/src/structure/parametercontainer.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/src/structure/evolvables/evolvable.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/src/structure/networks/feedforward.py",
+		"/C/Users/david/Dropbox/programming/python/ann/mypybrain/testastrocyte_layer.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v5/main.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v5/neuralnetwork.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v5/utilities.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v5/GA.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v5/astrocyte_layer.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v5/testneuralnetwork.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v5/testGA.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v5/testutilities.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v5/testastrocytelayer.py",
+		"/C/Users/david/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/vol.ahk",
+		"/C/Users/david/Dropbox/programming/python/misc/george_winining.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v4/utilities.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v4/GA.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v4/main.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v4/iris.py",
+		"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v4/neuralnetwork.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"current",
+			"trainer",
+			"random",
+			"self.neuronal_input_connection.params[J:J+i]",
+			"fitnessScores",
+			"selectionS",
+			"FitnessEvalu",
+			"fitnes",
+			"desired",
+			"username",
+			"USER",
+			"cumalativefi",
+			"fitnessscores",
+			"response",
+			"resp",
+			"setAll",
+			"setA",
+			"named",
+			"_checkIfastroActive",
+			"performastroActions",
+			"updateastroActivations",
+			"neuron",
+			"hiddenAstroLayer",
+			"neuron_layer.outputbuffer",
+			"neuron_wi",
+			"neuron_input_connection.params",
+			"neuronal",
+			"duration",
+			"threshold",
+			"astrocyte",
+			"decrement",
+			"increment",
+			"threshold",
+			"duration",
+			"astrocyte",
+			"layer_activations",
+			")\n",
+			"[]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tmp_tester",
+			"ws",
+			"fraction_fitnesses",
+			"email",
+			"PWD",
+			"EMAIL",
+			"cumalative_fi",
+			"fitness_scores",
+			"request",
+			"_checkIfAstroActive",
+			"performAstroActions",
+			"updateAstroActivations",
+			"neur",
+			"hidAstroL",
+			"neuron_activs",
+			"neuron_in_ws",
+			"neuron_wi",
+			"neuron",
+			"dur",
+			"thresh",
+			"astro",
+			"decr",
+			"incr",
+			"thresh",
+			"dur",
+			"astro"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"main.py"
+			],
+			[
+				"ga",
+				"GA.py"
+			],
+			[
+				"p",
+				"/C/Users/david/Google Drive/sem6/angn_project/PP_pseudocode.py"
+			],
+			[
+				"ps",
+				"/C/Users/david/Google Drive/sem6/angn_project/PP_pseudocode.py"
+			],
+			[
+				"ut",
+				"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/utilities.py"
+			],
+			[
+				"ma",
+				"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/main.py"
+			],
+			[
+				"neur",
+				"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/neuralnetwork.py"
+			],
+			[
+				"",
+				"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/main.py"
+			],
+			[
+				"u",
+				"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/utilities.py"
+			],
+			[
+				"astroy",
+				"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/astrocyte_layer.py"
+			],
+			[
+				"mai",
+				"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/main.py"
+			],
+			[
+				"neu",
+				"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/neuralnetwork.py"
+			],
+			[
+				"cros",
+				"/C/Users/david/Dropbox/programming/python/ann/GA_NN/v7/testutilities.py"
+			],
+			[
+				"main.p",
+				"/C/Users/david/Dropbox/programming/python/udacity/davidadlersapp/main.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

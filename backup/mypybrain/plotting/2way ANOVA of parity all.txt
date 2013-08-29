@@ -1,0 +1,16 @@
+					
+Table Analyzed	parity all				
+					
+Two-way ANOVA	Ordinary				
+Alpha	0.05				
+					
+Source of Variation	% of total variation	P value	P value summary	Significant?	
+  Row Factor	1.232	0.4100	ns	No	
+  Column Factor	92.93	< 0.0001	****	Yes	
+					
+ANOVA table	SS	DF	MS	F (DFn, DFd)	P value
+  Row Factor	780.3	19	41.07	F (19, 95) = 1.054	P = 0.4100
+  Column Factor	58864	5	11773	F (5, 95) = 302.2	P < 0.0001
+  Residual	3701	95	38.96		
+					
+Number of missing values	0				

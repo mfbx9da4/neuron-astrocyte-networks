@@ -1,0 +1,16 @@
+					
+Table Analyzed	iris all				
+					
+Two-way ANOVA	Ordinary				
+Alpha	0.05				
+					
+Source of Variation	% of total variation	P value	P value summary	Significant?	
+  Row Factor	1.749	0.4016	ns	No	
+  Column Factor	90.02	< 0.0001	****	Yes	
+					
+ANOVA table	SS	DF	MS	F (DFn, DFd)	P value
+  Row Factor	1687	19	88.77	F (19, 95) = 1.062	P = 0.4016
+  Column Factor	86832	5	17366	F (5, 95) = 207.8	P < 0.0001
+  Residual	7939	95	83.57		
+					
+Number of missing values	0				

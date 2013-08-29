@@ -1,0 +1,30 @@
+					
+Table Analyzed	speed				
+					
+ANOVA summary					
+  F	7522				
+  P value	< 0.0001				
+  P value summary	****				
+  Are differences among means statistically significant? (P < 0.05)	Yes				
+  R square	0.9962				
+					
+Brown-Forsythe test					
+  F (DFn, DFd)	4.825 (2, 57)				
+  P value	0.0116				
+  P value summary	*				
+  Significantly different standard deviations? (P < 0.05)	Yes				
+					
+Bartlett's test					
+  Bartlett's statistic (corrected)	9.727				
+  P value	0.0077				
+  P value summary	**				
+  Significantly different standard deviations? (P < 0.05)	Yes				
+					
+ANOVA table	SS	DF	MS	F (DFn, DFd)	P value
+  Treatment (between columns)	24027	2	12013	F (2, 57) = 7522	P < 0.0001
+  Residual (within columns)	91.04	57	1.597		
+  Total	24118	59			
+					
+Data summary					
+  Number of treatments (columns)	3				
+  Number of values (total)	60				

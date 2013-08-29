@@ -1,0 +1,18 @@
+								
+Number of families	1							
+Number of comparisons per family	3							
+Alpha	0.05							
+								
+Tukey's multiple comparisons test	Mean Diff.	95% CI of diff.	Significant?	Summary				
+								
+  BNN vs. PPM	-44.04	-45.00 to -43.08	Yes	****				
+  BNN vs. RAP	-3.378	-4.340 to -2.417	Yes	****				
+  PPM vs. RAP	40.66	39.70 to 41.62	Yes	****
+  
+								
+								
+Test details	Mean 1	Mean 2	Mean Diff.	SE of diff.	n1	n2	q	DF
+								
+  BNN vs. PPM	9.369	53.41	-44.04	0.3996	20	20	155.8	57
+  BNN vs. RAP	9.369	12.75	-3.378	0.3996	20	20	11.96	57
+  PPM vs. RAP	53.41	12.75	40.66	0.3996	20	20	143.9	57

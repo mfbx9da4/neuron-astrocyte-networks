@@ -1,0 +1,17 @@
+	BNN	PPM	RAP
+Number of values	20	20	20
+			
+Minimum	8.080	49.51	10.45
+25% Percentile	8.711	52.13	11.94
+Median	9.449	53.70	12.86
+75% Percentile	9.924	54.82	13.60
+Maximum	11.26	55.72	14.71
+			
+Mean	9.369	53.41	12.75
+Std. Deviation	0.7845	1.659	1.194
+Std. Error of Mean	0.1754	0.3709	0.2669
+			
+Lower 95% CI of mean	9.002	52.63	12.19
+Upper 95% CI of mean	9.736	54.18	13.31
+			
+Sum	187.4	1068	255.0

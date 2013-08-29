@@ -1,0 +1,30 @@
+					
+Table Analyzed	iris all				
+					
+ANOVA summary					
+  F	230.1				
+  P value	< 0.0001				
+  P value summary	****				
+  Are differences among means statistically significant? (P < 0.05)	Yes				
+  R square	0.8898				
+					
+Brown-Forsythe test					
+  F (DFn, DFd)	3.774 (2, 57)				
+  P value	0.0289				
+  P value summary	*				
+  Significantly different standard deviations? (P < 0.05)	Yes				
+					
+Bartlett's test					
+  Bartlett's statistic (corrected)	10.66				
+  P value	0.0048				
+  P value summary	**				
+  Significantly different standard deviations? (P < 0.05)	Yes				
+					
+ANOVA table	SS	DF	MS	F (DFn, DFd)	P value
+  Treatment (between columns)	42013	2	21007	F (2, 57) = 230.1	P < 0.0001
+  Residual (within columns)	5203	57	91.29		
+  Total	47217	59			
+					
+Data summary					
+  Number of treatments (columns)	3				
+  Number of values (total)	60				

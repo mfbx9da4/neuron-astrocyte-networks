@@ -1,0 +1,17 @@
+								
+Number of families	1							
+Number of comparisons per family	3							
+Alpha	0.05							
+								
+Tukey's multiple comparisons test	Mean Diff.	95% CI of diff.	Significant?	Summary				
+								
+  PPM_TST vs. BNN_TST	3.296	-1.693 to 8.286	No	ns				
+  PPM_TST vs. RAP_TST	-47.28	-52.27 to -42.29	Yes	****				
+  BNN_TST vs. RAP_TST	-50.58	-55.57 to -45.59	Yes	****				
+								
+								
+Test details	Mean 1	Mean 2	Mean Diff.	SE of diff.	n1	n2	q	DF
+								
+  PPM_TST vs. BNN_TST	4.596	1.300	3.296	2.073	20	20	2.248	57
+  PPM_TST vs. RAP_TST	4.596	51.88	-47.28	2.073	20	20	32.25	57
+  BNN_TST vs. RAP_TST	1.300	51.88	-50.58	2.073	20	20	34.50	57

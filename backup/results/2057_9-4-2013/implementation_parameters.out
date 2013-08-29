@@ -1,0 +1,1 @@
+[('mutationProb', 0.1), ('verbose', True), ('trn_data_len_indim_outdim', (4, 2L, 1L)), ('minimize', True), ('trials', 1), ('storeAllEvaluations', True), ('tournament', False), ('elitism', True), ('dataset', 'XOR'), ('iters', 4), ('storeAllPopulations', True), ('populationSize', 150)]
