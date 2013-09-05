@@ -9,14 +9,6 @@ def crossover(m1, m2, NN):
   r = random.randint(0, net.wi.size + net.wo.size) 
   output1 = [empty_like(net.wi), empty_like(net.wo)]
   output2 = [empty_like(net.wi), empty_like(net.wo)]
-  # split at index and then recombine
-  # split_ind = computerAsIndex()
-  # output1 = m1[split_ind:] + m2[:split_ind]
-
-  # flatten, recombine and reshape
-  # m1 = array(m1[0].flatten(), m1[1].flatten()).flatten()
-  # output1 = m1[r:] + m2[:r]
-  # output1 = [output1[:net.wi.size], output1[net.wi.size:]]
 
   for i in xrange(len(m1)):
     for j in xrange(len(m1[i])):
@@ -71,6 +63,7 @@ def roulette(fitnessScores):
 
 def calcFit(numbers):  
   """each fitness is a fraction of the total error"""
+  # POTENTIAL IMPROVEMENTS:
   # maybe give the better scores much higher weighting?
   # maybe use the range to calculate the fitness?
   # maybe do ind / range of accuracies? 

@@ -39,7 +39,6 @@ def rankPop(newpopW, pop):
     errors, copy = [], []
     for i in range(NN.pop_size):  
         pop[i].assignWeights(newpopW[i])                             
-    # do i need to keep the below lines? may be unnecessary now
     for i in range(NN.pop_size):  
         pop[i].testWeights(newpopW[i])
     pairedPop = pairPop(pop)
@@ -80,9 +79,6 @@ def selectTwoIndividuals(fitnessScores, rankedWeights):
     # Variation: is this an unneccessary bottleneck?
     while ind1 == ind2:
       ind2 = roulette(fitnessScores)
-    # need to check the numpy version is equivalent
-    # ch1 = deepcopy(rankedWeights[ind1])
-    # ch2 = deepcopy(rankedWeights[ind2])
     ch1 = [x.copy() for x in rankedWeights[ind1]]
     ch2 = [x.copy() for x in rankedWeights[ind2]]
     return ch1, ch2

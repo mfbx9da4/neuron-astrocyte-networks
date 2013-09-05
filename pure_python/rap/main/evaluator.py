@@ -13,7 +13,6 @@ class Evaluator(object):
         self.verbose = verbose
 
     def testOnTrainData(self, new_weights):
-        # use MSE!!!
         self.assignWeights(new_weights) 
         outs, trgs = self.activateOnAllSamples(return_targets=True)
         outs, trgs = OutToClass(outs, trgs)

@@ -30,16 +30,6 @@ class testcrossover(unittest.TestCase):
 				for io in range(len(self.ch1)):
 					self.assertNotEqual(id(x[io]), id(y[io]))
 
-	def testInputIsChanged(self):
-		"""Kinda redundant r may be 0"""
-		# for x in [self.ch1, self.ch2]:
-		# 	for y in [self.o1, self.o2]:
-		# 		# comparison = where(x != y, True, False)
-		# 		# self.assertTrue(comparison.all())
-		# 		for io in range(len(self.ch1)):
-		# 			comparison = where(x[io] != y[io], True, False)
-		# 			self.assertTrue(comparison.all(), str(comparison))
-		pass
 
 	def testShapeUnchanged(self):
 		print 'ch1', self.ch1

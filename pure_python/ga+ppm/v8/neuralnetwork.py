@@ -12,14 +12,6 @@ import numpy as np
 from utilities import percentAcc
 from iris import randomIrisData
 
-# to do:
-#   * change iris to be 3d data
-#   * make sure data is presented randomly each time
-#   * turn into 3d output
-#   * return percentage error
-#   * implement PP
-#   * implement my algo
-
 
 
 class NN(object):
@@ -46,7 +38,6 @@ class NN(object):
     self.ai[:] = np.tanh(inputs).copy()
     self.ah[:] = np.tanh(np.sum(self.wi.T * self.ai, axis=1))
     self.ao[:] = np.sum(self.wo.T * self.ah, axis=1) + 0.5
-    # self.ao[:] = where(self.ao > 0.5, 1.0, 0.0)
     self.ao[:] = where(self.ao == max(self.ao), 1.0, 0.0)
     return self.ao.copy()
 

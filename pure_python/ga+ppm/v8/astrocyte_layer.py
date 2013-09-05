@@ -87,8 +87,7 @@ class AstrocyteLayer(object):
 
     def _checkIfthresh(self, counter):
         # not very pythonic
-        assert counter <= self.astro_processing_iters\
-            and counter >= -self.astro_processing_iters
+        assert counter <= self.astro_processing_iters and counter >= -self.astro_processing_iters
         if counter >= self.astro_thresh:
             return self.astro_dur
         elif counter <= -self.astro_thresh:
@@ -122,7 +121,6 @@ class InAstroLayer(AstrocyteLayer):
         for j, active in enumerate(self.astro_statuses):
             assert active in [-1, 0, 1]
             if active == 1:
-                # need to check output weights are modified in the correct way
                 assert sign(self.remaining_active_durs[j]) == 1
                 self.out_ws[j] += self.out_ws[j] * self.incr_percent
                 self.remaining_active_durs[j] -= 1
@@ -142,7 +140,6 @@ class HidAstroLayer(AstrocyteLayer):
         for j, active in enumerate(self.astro_statuses):
             assert active in [-1, 0, 1]
             if active == 1:
-                # need to check output weights are modified in the correct way
                 assert sign(self.remaining_active_durs[j]) == 1
                 self.in_ws[:,j] += self.in_ws[:,j] * self.incr_percent
                 self.out_ws[j] += self.out_ws[j] * self.incr_percent
@@ -164,7 +161,6 @@ class OutAstroLayer(AstrocyteLayer):
         for j, active in enumerate(self.astro_statuses):
             assert active in [-1, 0, 1]
             if active == 1:
-                # need to check output weights are modified in the correct way
                 assert sign(self.remaining_active_durs[j]) == 1
                 self.in_ws[:,j] += self.in_ws[:,j] * self.incr_percent
                 self.remaining_active_durs[j] -= 1
@@ -174,28 +170,3 @@ class OutAstroLayer(AstrocyteLayer):
                 self.remaining_active_durs[j] += 1
 
 
-"""
-hidden
-    unique
-        associate input and output
-        check neuron activations in hidden and update counters
-        performAstroActions
-            if active 1:
-                self.input_ws +=
-                self.output_ws += 
-
-        
-
-astro
-    shared
-        neuron layer
-        update counters
-        all settings
-        parameters
-            remaining_active_durs
-            statuses
-            counters
-    unique
-        update astro activations
-        update weights
-"""

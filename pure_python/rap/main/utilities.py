@@ -53,16 +53,9 @@ def OutToClass(outputs, targets):
     trgs = []
     for out, trg in zip(outputs, targets):
         # this is to have each output neruon responsible for a class
-        # if False and len(out) == 3 and \
         if len(out) == 1:
           outs.append(1. if out[0] >= 0.5 else 0.)
           trgs.append(trg[0])
-          # print out[0]  
-        # elif len(out) == 3 and \
-        #   array([where(x in [1, 0], True, False) for x in out]).all() and \
-        #   bincount(out.astype('int'))[0] != 2:
-        #     outs.append(-1)
-        #     trgs.append(argmax(trg))
         else:
             outs.append(argmax(out))
             trgs.append(argmax(trg))

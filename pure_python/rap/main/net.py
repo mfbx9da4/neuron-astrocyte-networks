@@ -81,23 +81,17 @@ class NeuroAstroNet(object):
         self.ai[:] = tanh(inputs)
 
     def activateHid(self):
-        # self.ah[:] = tanh(sum(self.wi.T * self.ai, axis=1))
-        for j in range(self.hiddim):
-            s = 0
-            for i in range(self.indim):
-                s += sum(self.wi[i][j] * (self.ai + self.astroOuts[i][j]))
-                # print self.astroOuts
-            self.ah[j] = tanh(s)
+        self.ah[:] = tanh(sum(self.wi.T * self.ai, axis=1))
 
     def activateOut(self):
         self.ao[:] = tanh(npsum(self.wo.T * self.ah, axis=1))
 
     def activateAstros(self):
-        # self.updateFromSynapse()
-        # self.updateFromLag()
-        # self.updateFromOtherAstros()
+        self.updateFromSynapse()
+        self.updateFromLag()
+        self.updateFromOtherAstros()
         out = self.astroOut()
-        # self.storeLag()
+        self.storeLag()
         self.resetAstroActs()
         return out
 
