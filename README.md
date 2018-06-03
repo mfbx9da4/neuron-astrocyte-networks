@@ -3,7 +3,7 @@ neuron-astrocyte-networks
 
 Modified feedforward neural network models to represent neuron-astrocyte interactions. 
 
-Includes [Porto-Pazos Model (ppm)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0019109), genetic algorithms (ga), back propagation(bp) and [my own model (reciprocal astrocyte processing (RAP) model)](www.davidadlersapp.appspot.com/files/writeup.pdf).
+Includes [Porto-Pazos Model (ppm)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0019109), genetic algorithms (ga), back propagation(bp) and [my own model (reciprocal astrocyte processing (RAP) model)](https://drive.google.com/file/d/0B8BD2EanwzGQTHJEMlk5dHpITXc/view?usp=sharing).
 
 ## To browse source code
 
